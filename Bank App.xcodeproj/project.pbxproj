@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		38472580255C3F3B00A4A402 /* ExelFormules.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3847257F255C3F3B00A4A402 /* ExelFormules.swift */; };
+		38472583255C453A00A4A402 /* Double+asCurrency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38472582255C453A00A4A402 /* Double+asCurrency.swift */; };
 		38ACFA57255975DA00A69D03 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38ACFA56255975DA00A69D03 /* AppDelegate.swift */; };
 		38ACFA59255975DA00A69D03 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38ACFA58255975DA00A69D03 /* SceneDelegate.swift */; };
 		38ACFA5B255975DA00A69D03 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38ACFA5A255975DA00A69D03 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		3847257F255C3F3B00A4A402 /* ExelFormules.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExelFormules.swift; sourceTree = "<group>"; };
+		38472582255C453A00A4A402 /* Double+asCurrency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+asCurrency.swift"; sourceTree = "<group>"; };
 		38ACFA53255975DA00A69D03 /* Bank App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bank App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		38ACFA56255975DA00A69D03 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		38ACFA58255975DA00A69D03 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				38ACFA5C255975DA00A69D03 /* Main.storyboard */,
 				38ACFA58255975DA00A69D03 /* SceneDelegate.swift */,
 				38ACFA5A255975DA00A69D03 /* ViewController.swift */,
+				38472582255C453A00A4A402 /* Double+asCurrency.swift */,
 			);
 			path = "Bank App";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				38472580255C3F3B00A4A402 /* ExelFormules.swift in Sources */,
+				38472583255C453A00A4A402 /* Double+asCurrency.swift in Sources */,
 				38ACFA5B255975DA00A69D03 /* ViewController.swift in Sources */,
 				38ACFA57255975DA00A69D03 /* AppDelegate.swift in Sources */,
 				38ACFA59255975DA00A69D03 /* SceneDelegate.swift in Sources */,
