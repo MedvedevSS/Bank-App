@@ -39,6 +39,9 @@
                             <constraint firstItem="HHc-nT-A4X" firstAttribute="centerX" secondItem="F9i-EJ-d2H" secondAttribute="centerX" id="uae-8m-tEh"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="amountLabel" destination="HHc-nT-A4X" id="gHi-2c-oaz"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
